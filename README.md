@@ -7,7 +7,7 @@ A modern and visually engaging landing page for a virtual gaming and entertainme
 ## 📸 Preview
 
 <p align="center">
-  <img src="./video" alt="Project Demo" width="900">
+  <img src="./video/Screen%20Recording%202026-07-13%20153502.gif" alt="Project Demo" width="900">
 </p>
 
 
